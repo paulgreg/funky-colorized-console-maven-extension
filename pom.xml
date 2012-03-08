@@ -45,12 +45,14 @@
 				</executions>
 			</plugin>
 		</plugins>
-        <!--<extensions>
+        <!-- Following will enable the current extension. So be sure to built it once before uncomment that 
+        <extensions>
 			<extension>
 				<groupId>org.apache.maven.examples</groupId>
 				<artifactId>funky-colorized-console-maven-extension</artifactId>
 				<version>1.0-SNAPSHOT</version>
 			</extension>
-        </extensions>-->
+        </extensions>
+        -->
 	</build>
 </project>
